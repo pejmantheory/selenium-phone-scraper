@@ -1,0 +1,24 @@
+[INFO] Searching Google for: sushi near me
+[INFO] Scraping interrupted by user.
+Searching for: pizza near me
+Error during search: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100a8b184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x0000000100a839d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001004f0968 cxxbridge1$string$len + 89228
+3   chromedriver                        0x0000000100534d50 cxxbridge1$string$len + 368756
+4   chromedriver                        0x000000010056e5b4 cxxbridge1$string$len + 604376
+5   chromedriver                        0x0000000100529568 cxxbridge1$string$len + 321676
+6   chromedriver                        0x000000010052a1b8 cxxbridge1$string$len + 324828
+7   chromedriver                        0x0000000100a569ac cxxbridge1$str$ptr + 3411716
+8   chromedriver                        0x0000000100a59ccc cxxbridge1$str$ptr + 3424804
+9   chromedriver                        0x0000000100a3d86c cxxbridge1$str$ptr + 3308996
+10  chromedriver                        0x0000000100a5a58c cxxbridge1$str$ptr + 3427044
+11  chromedriver                        0x0000000100a2f09c cxxbridge1$str$ptr + 3249652
+12  chromedriver                        0x0000000100a744b8 cxxbridge1$str$ptr + 3533328
+13  chromedriver                        0x0000000100a74634 cxxbridge1$str$ptr + 3533708
+14  chromedriver                        0x0000000100a83648 cxxbridge1$str$ptr + 3595168
+15  libsystem_pthread.dylib             0x000000019ef182e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019ef130fc thread_start + 8
+
+Screenshot saved: search_error.png
