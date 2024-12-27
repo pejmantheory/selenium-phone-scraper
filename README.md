@@ -139,19 +139,9 @@ Enter the keyword to search (e.g., 'pizza'): sushi
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it as you see fit.
-
----
-
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance this project, feel free to submit a pull request or open an issue.
 
----
 
-## Author
-
-Developed by [Your Name](https://github.com/yourusername). If you have any questions or feedback, feel free to reach out!
 
